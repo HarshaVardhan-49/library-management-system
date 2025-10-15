@@ -96,7 +96,7 @@ This project follows the \*\*MVC (Model-View-Controller)\*\* and \*\*Service-Ori
 
 \## 📅 Timeline
 
-Developed: \*\*October 2025\*\*  
+Developed: \*\*October 2024\*\*  
 
 Status: \*\*Work in progress / Planned expansion\*\*
 
